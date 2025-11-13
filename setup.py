@@ -31,7 +31,7 @@ setup(
         'selfies',
         'mendeleev',
         'requests',
-        "MOFClassifier @ git+https://github.com/jb2197/MOFClassifier.git@f06a16c559d0861a5624d7a6b7b9807650c19eb5"
+        "MOFClassifier @ git+https://github.com/jb2197/MOFClassifier.git@main"
     ],
     extras_require={
         'zeopp': ['zeopp-lsmo'],
